@@ -11,3 +11,6 @@
 # Ignore all local history of files
 .history
 node_modules
+
+# build folder
+/build
