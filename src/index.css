@@ -1,0 +1,19 @@
+body {
+    margin: 0px;
+}
+header {
+    display: inline-block;
+    background-color: orangered;
+    margin: 0px;
+}
+
+header > h1 {
+    align-content: center;
+    display: inline-block;
+    margin: 0px;
+}
+
+header > nav > ul {
+    display: inline-block;
+    list-style: none;
+}
