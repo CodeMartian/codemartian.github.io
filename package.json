@@ -1,21 +1,22 @@
 {
-  "name": "codemartian.github.io",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "deploy": "gh-pages deploy"
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/CodeMartian/codemartian.github.io.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/CodeMartian/codemartian.github.io/issues"
-  },
-  "homepage": "https://github.com/CodeMartian/codemartian.github.io#readme"
+	"name": "codemartian.github.io",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"deploy": "gh-pages deploy",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/CodeMartian/codemartian.github.io.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/CodeMartian/codemartian.github.io/issues"
+	},
+	"homepage": "https://github.com/CodeMartian/codemartian.github.io#readme",
+	"dependencies": {}
 }
